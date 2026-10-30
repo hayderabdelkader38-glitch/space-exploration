@@ -1,0 +1,40 @@
+
+body{
+  color:red;  
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  margin: 0;
+
+}
+
+#title{
+  text-shadow: 0 0 4px black;
+}
+
+
+#hero {
+
+  background-image: url("img/galex.webp");
+  background-size: cover; 
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding:10px 0 40px 0;
+
+}
+
+
+.apply-btn {
+    font-family: inherit;
+    font-size: 22px;
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    color: red;
+    border-radius: 20px;
+}
+
+.cta {
+    border-bottom: 4px solid white;
+}
